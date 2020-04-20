@@ -1,4 +1,4 @@
 Hi NTTDATA
 
-Testing G-004 ( modify existing file in get repo )
-Testing G-005 ( modify the file in get repo as part of G005 )
+Testing G-004 (modify existing file in get repo)
+Testing G-005 (modify the file in get repo as part of G005)
